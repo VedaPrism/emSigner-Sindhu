@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false" thread-count="1">
+	<parameter name="browser" value="ch"></parameter>
+
+	<!-- <test name="Logout">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Logout_Script" />	
+		</classes>
+	</test>
+	
+	 <test name="Form16">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Form16Sign_Script" />	
+		</classes>
+	</test> 
+
+	 <test name="Encrypt">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Encrypt_Script" />
+		</classes>
+	</test>
+
+	<test name="Decrypt">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Decrypt_Script" />
+		</classes>
+	</test>
+
+	<test name="AnyDoc">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.AnyDoc_Script" />
+		</classes>
+	</test>
+
+	<test name="BulkDoc">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.BulkDoc_Script" />
+		</classes>
+	</test>
+
+	 <test name="Docstore">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Docstore_Script" />
+		</classes>
+	</test>
+
+	<test name="Settings">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Setting_Script" />
+		</classes>
+	</test> 
+
+	<test name="AdminSetting">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.AdminSettings_Script" />
+		</classes>
+	</test>  -->
+
+	<test name="workflow">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Workflows_Script" />
+		</classes>
+	</test>
+
+	<!-- <test name="reports">
+		<groups>
+			<run>
+				<include name="SMK" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Scripts.Login_Script" />
+			<class name="Scripts.Reports_Script" />
+		</classes>
+	</test> -->
+
+	<!--<class name="Scripts.Dashboard_Script"/> -->
+</suite> <!-- Suite -->

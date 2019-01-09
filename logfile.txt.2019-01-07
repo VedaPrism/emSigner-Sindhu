@@ -1,0 +1,18 @@
+2019-01-07 15:20:43 INFO  Basefunctions:62 - Open the Browser
+2019-01-07 15:20:44 INFO  Basefunctions:70 - Enter the URL
+2019-01-07 15:20:45 INFO  Login_Script:24 - this is login information
+2019-01-07 15:20:45 INFO  Login_Script:29 - Username picked from Excel is testtm67@gmail.com
+2019-01-07 15:20:45 INFO  Login_Script:30 - Username picked from Excel is 111111
+2019-01-07 15:20:50 INFO  Login_Script:32 - Logged in successfully
+2019-01-07 16:41:28 INFO  Basefunctions:62 - Open the Browser
+2019-01-07 16:41:30 INFO  Basefunctions:70 - Enter the URL
+2019-01-07 16:41:31 INFO  Login_Script:24 - this is login information
+2019-01-07 16:41:31 INFO  Login_Script:29 - Username picked from Excel is testtm67@gmail.com
+2019-01-07 16:41:31 INFO  Login_Script:30 - Username picked from Excel is 111111
+2019-01-07 16:41:39 INFO  Login_Script:32 - Logged in successfully
+2019-01-07 17:20:07 INFO  Basefunctions:62 - Open the Browser
+2019-01-07 17:20:08 INFO  Basefunctions:70 - Enter the URL
+2019-01-07 17:20:10 INFO  Login_Script:24 - this is login information
+2019-01-07 17:20:10 INFO  Login_Script:29 - Username picked from Excel is testtm67@gmail.com
+2019-01-07 17:20:10 INFO  Login_Script:30 - Username picked from Excel is 111111
+2019-01-07 17:20:13 INFO  Login_Script:32 - Logged in successfully

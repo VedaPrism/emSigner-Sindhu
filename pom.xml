@@ -85,7 +85,7 @@
 
 			<version>6.9.8</version>
 
-			<scope>test</scope>
+			<scope>compile</scope>
 
 		</dependency>
 		<dependency>
